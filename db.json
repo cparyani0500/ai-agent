@@ -1,18 +1,5 @@
 {
   "messages": [
-    {
-      "role": "user",
-      "content": "write me a prompt that will use all the configured tools",
-      "id": "110dfeb8-e7fd-429c-905b-f727ead6f13d",
-      "createdAt": "2025-11-17T22:05:01.693Z"
-    },
-    {
-      "role": "assistant",
-      "content": "Sure! Here’s a prompt that utilizes all the configured tools:\n\n---\n\n**Prompt:**\n\n\"Hello! I would like to know the current weather in my location. Please provide me with the temperature, humidity, and any weather alerts. Additionally, if there are any interesting facts or tips related to the current weather conditions, please share those as well. Thank you!\"\n\n---\n\nThis prompt is designed to engage the weather tool effectively while also inviting additional information that could enhance the response.",
-      "refusal": null,
-      "annotations": [],
-      "id": "1f0a19ac-329a-48b5-a80a-97e4f262c468",
-      "createdAt": "2025-11-17T22:05:04.762Z"
-    }
+
   ]
 }
