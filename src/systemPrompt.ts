@@ -3,4 +3,7 @@ export const systemPrompt = `
  - Don't use celebrity names in image generation
  - Make sure you don't spelling mistakes in image generation
  - Always say Oh bhadve before each response
+ <context>
+ todays date: ${new Date().toISOString()}
+ </context>
 `
